@@ -53,7 +53,6 @@ function Home() {
           backgroundImg="accessories.jpg"
           leftBtnText="Shop Now"
         />
-
     </Container>
   )
 }
